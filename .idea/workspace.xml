@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6647b5f9-da7a-4f22-955e-ba3367dc4003" name="Default Changelist" comment="" />
+    <list default="true" id="6d2d13cc-3668-4f6c-86c3-c0a5458df0ca" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +25,14 @@
       </state>
     </system>
   </component>
-  <component name="ProjectId" id="1ibUOzdmjdR7GmlkauSFqOxAenq" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iYJduhmAlD2ukC4VmaVM7RlDwK" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -33,6 +40,18 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="android.template.389222347">
+      <recent name="com.example.trackeractivity.Pertemuan2" />
+    </key>
+    <key name="android.template.-1033829222">
+      <recent name="com.example.trackeractivity" />
+    </key>
+    <key name="android.template.-1436539224">
+      <recent name="com.example.trackeractivity.Pertemuan2" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
@@ -99,12 +118,42 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6647b5f9-da7a-4f22-955e-ba3367dc4003" name="Default Changelist" comment="" />
-      <created>1602175757257</created>
+      <changelist id="6d2d13cc-3668-4f6c-86c3-c0a5458df0ca" name="Default Changelist" comment="" />
+      <created>1602078685029</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602175757257</updated>
+      <updated>1602078685029</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1602255737682">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1602255737682" />
+    <state x="541" y="182" key="AndroidCreateXmlResourceDialog" timestamp="1602164933676">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="541" y="182" key="AndroidCreateXmlResourceDialog/0.0.1366.738@0.0.1366.738" timestamp="1602164933676" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1602172400899">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1602172400899" />
+    <state x="549" y="262" key="Github.ShareDialog" timestamp="1602177087084">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="549" y="262" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1602177087084" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1602234614770">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1602234614770" />
+    <state x="339" y="165" key="run.anything.popup" timestamp="1602235448678">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1602235448678" />
+    <state x="513" y="160" key="svn.repositoryBrowser" timestamp="1602174928729">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="513" y="160" key="svn.repositoryBrowser/0.0.1366.738@0.0.1366.738" timestamp="1602174928729" />
   </component>
 </project>
