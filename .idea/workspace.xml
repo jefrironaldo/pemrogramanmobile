@@ -12,7 +12,6 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="J7AXGF04095745F" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -44,6 +43,9 @@
   </component>
   <component name="RecentsManager">
     <key name="android.template.389222347">
+      <recent name="com.example.trackeractivity.Pertemuan2" />
+    </key>
+    <key name="android.template.-1911771314">
       <recent name="com.example.trackeractivity.Pertemuan2" />
     </key>
     <key name="android.template.-1033829222">
@@ -127,10 +129,14 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1602255737682">
+    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1603185315650">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1602255737682" />
+    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1603185315650" />
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603178227578">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1603178227578" />
     <state x="541" y="182" key="AndroidCreateXmlResourceDialog" timestamp="1602164933676">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -143,10 +149,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="549" y="262" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1602177087084" />
-    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1602234614770">
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1603174612957">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1602234614770" />
+    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1603174612957" />
     <state x="339" y="165" key="run.anything.popup" timestamp="1602235448678">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
