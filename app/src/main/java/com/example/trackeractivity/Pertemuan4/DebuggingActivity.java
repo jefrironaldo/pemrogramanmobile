@@ -1,10 +1,10 @@
-package com.example.trackeractivity.Pertemuan2;
-
-import android.os.Bundle;
+package com.example.trackeractivity.Pertemuan4;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+
+import android.os.Bundle;
 
 import com.example.trackeractivity.Adapter.MahasiswaRecyclerAdapter;
 import com.example.trackeractivity.Model.Mahasiswa;
@@ -13,14 +13,14 @@ import com.example.trackeractivity.R;
 import java.util.ArrayList;
 import java.util.List;
 
-public class CardViewTestActivity extends AppCompatActivity {
+public class DebuggingActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.item_list_cardview);
+        setContentView(R.layout.activity_debugging);
 
-        RecyclerView rv = (RecyclerView)findViewById(R.id.cvMahasiswa);
+        RecyclerView rv = (RecyclerView)findViewById(R.id.rvLatihan);
         MahasiswaRecyclerAdapter mahasiswaRecyclerAdapter;
 
         //data dummy
@@ -39,10 +39,12 @@ public class CardViewTestActivity extends AppCompatActivity {
         mahasiswaList.add(m4);
         mahasiswaList.add(m5);
 
-        mahasiswaRecyclerAdapter = new MahasiswaRecyclerAdapter(CardViewTestActivity.this);
-        mahasiswaRecyclerAdapter.setMahasiswaList(mahasiswaList);
+        List<Mahasiswa> mahasiswaListDebug = new ArrayList<Mahasiswa>();
 
-        rv.setLayoutManager(new LinearLayoutManager(CardViewTestActivity.this));
+        mahasiswaRecyclerAdapter = new MahasiswaRecyclerAdapter(DebuggingActivity.this);
+        mahasiswaRecyclerAdapter.setMahasiswaList(mahasiswaListDebug);
+
+        rv.setLayoutManager(new LinearLayoutManager(DebuggingActivity.this));
         rv.setAdapter(mahasiswaRecyclerAdapter);
     }
 }
