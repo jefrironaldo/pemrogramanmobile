@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TrackerActivity.iml" filepath="$PROJECT_DIR$/.idea/modules/TrackerActivity.iml" group="TrackerActivity" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="TrackerActivity/app" />
+      <module fileurl="file://$PROJECT_DIR$/UTS_Progmob.iml" filepath="$PROJECT_DIR$/UTS_Progmob.iml" group="UTS_Progmob" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="UTS_Progmob/app" />
     </modules>
   </component>
 </project>

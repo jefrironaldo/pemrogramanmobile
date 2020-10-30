@@ -1,4 +1,3 @@
 <resources>
-    <string name="app_name">TrackerActivity</string>
-    <string name="text_hello_progmob">Hello Progmob 2020</string>
+    <string name="app_name">UTS_Progmob</string>
 </resources>

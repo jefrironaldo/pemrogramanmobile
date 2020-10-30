@@ -1,2 +1,2 @@
 include ':app'
-rootProject.name = "TrackerActivity"
+rootProject.name='UTS_Progmob'

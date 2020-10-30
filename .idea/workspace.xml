@@ -9,13 +9,12 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6d2d13cc-3668-4f6c-86c3-c0a5458df0ca" name="Default Changelist" comment="" />
+    <list default="true" id="ec6d5c01-da66-43bb-bb16-a8df949e7a4a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="J7AXGF04095745F" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -24,50 +23,50 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <projects_view>
-          <tree_state>
-            <expand />
-            <select />
-          </tree_state>
-        </projects_view>
+        <projects_view />
       </state>
     </system>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="valueResourceFile" />
+        <option value="layoutResourceFile" />
         <option value="Class" />
+        <option value="resourceFile" />
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1iYJduhmAlD2ukC4VmaVM7RlDwK" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jb6YIgQ6YXBBwcHcpP32UKcr83" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/res/drawable" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.17" />
-    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RecentsManager">
-    <key name="android.template.1991471747">
-      <recent name="com.example.trackeractivity.Pertemuan4" />
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.example.uts_progmob" />
     </key>
-    <key name="android.template.389222347">
-      <recent name="com.example.trackeractivity.Pertemuan2" />
+    <key name="android.template.packageName">
+      <recent name="com.example.uts_progmob" />
     </key>
-    <key name="android.template.-1911771314">
-      <recent name="com.example.trackeractivity.Pertemuan2" />
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.uts_progmob" />
+      <recent name="com.example.uts_progmob.Network" />
     </key>
-    <key name="android.template.-1033829222">
-      <recent name="com.example.trackeractivity" />
-    </key>
-    <key name="android.template.-1436539224">
-      <recent name="com.example.trackeractivity.Pertemuan2" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Tugas\UTS_Progmob\app\src\main\java\com\example\uts_progmob" />
+      <recent name="D:\Tugas\UTS_Progmob\app\src\main\res\drawable" />
     </key>
   </component>
   <component name="RunManager">
@@ -135,70 +134,127 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="6d2d13cc-3668-4f6c-86c3-c0a5458df0ca" name="Default Changelist" comment="" />
-      <created>1602078685029</created>
+      <changelist id="ec6d5c01-da66-43bb-bb16-a8df949e7a4a" name="Default Changelist" comment="" />
+      <created>1571824878372</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1602078685029</updated>
+      <updated>1571824878372</updated>
     </task>
+    <task id="LOCAL-00001" summary="fisrt">
+      <created>1571936316375</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1571936316376</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Dialogs KRS">
+      <created>1573049875412</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1573049875412</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Dialogs KRS2">
+      <created>1573050036813</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1573050036813</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit aja">
+      <created>1573647725265</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1573647725265</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit aja">
+      <created>1574778686952</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1574778686952</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit aja">
+      <created>1574779034818</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1574779034818</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit aja lagi">
+      <created>1575389675620</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1575389675620</updated>
+    </task>
+    <task id="LOCAL-00008" summary="LAST COMMIT">
+      <created>1576209294268</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1576209294268</updated>
+    </task>
+    <task id="LOCAL-00009" summary="LAST COMMIT">
+      <created>1604074621384</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1604074621384</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fisrt" />
+    <MESSAGE value="Dialogs KRS" />
+    <MESSAGE value="Dialogs KRS2" />
+    <MESSAGE value="commit aja" />
+    <MESSAGE value="commit aja lagi" />
+    <MESSAGE value="LAST COMMIT" />
+    <option name="LAST_COMMIT_MESSAGE" value="LAST COMMIT" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="200" y="101" key="#PSD" timestamp="1603982986457">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="488" y="92" key="#com.intellij.ide.util.MemberChooser" timestamp="1604067316441">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="200" y="101" key="#PSD/0.0.1366.738@0.0.1366.738" timestamp="1603982986457" />
-    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1603985790884">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="488" y="92" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1604067316441" />
+    <state x="328" y="309" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1604070532434">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="488" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.738@0.0.1366.738" timestamp="1603985790884" />
-    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1603277896714">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="328" y="309" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1366.768@0.0.1366.768" timestamp="1604070532434" />
+    <state x="462" y="242" width="444" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1604074587758">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1603277896714" />
-    <state x="541" y="182" key="AndroidCreateXmlResourceDialog" timestamp="1602164933676">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="462" y="242" width="444" height="291" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1366.768@0.0.1366.768" timestamp="1604074587758" />
+    <state x="337" y="0" key="CommitChangelistDialog2" timestamp="1604074620074">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="541" y="182" key="AndroidCreateXmlResourceDialog/0.0.1366.738@0.0.1366.738" timestamp="1602164933676" />
-    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1602172400899">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="337" y="0" key="CommitChangelistDialog2/0.0.1366.768@0.0.1366.768" timestamp="1604074620074" />
+    <state x="463" y="138" key="FileChooserDialogImpl" timestamp="1604070191441">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1602172400899" />
-    <state x="549" y="262" key="Github.ShareDialog" timestamp="1602177087084">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state x="463" y="138" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1604070191441" />
+    <state width="1323" height="150" key="GridCell.Tab.0.bottom" timestamp="1604060914663">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="549" y="262" key="Github.ShareDialog/0.0.1366.738@0.0.1366.738" timestamp="1602177087084" />
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1603989951887">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1323" height="150" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1604060914663" />
+    <state width="1323" height="150" key="GridCell.Tab.0.center" timestamp="1604060914662">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1603989951887" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1603989951887">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1323" height="150" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1604060914662" />
+    <state width="1323" height="150" key="GridCell.Tab.0.left" timestamp="1604060914661">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1603989951887" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1603989951887">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1323" height="150" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1604060914661" />
+    <state width="1323" height="150" key="GridCell.Tab.0.right" timestamp="1604060914662">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1603989951887" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1603989951887">
-      <screen x="0" y="0" width="1366" height="738" />
+    <state width="1323" height="150" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1604060914662" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2" timestamp="1604074991422">
+      <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1603989951887" />
-    <state x="499" y="147" key="chooseDestDirectoryDialog" timestamp="1603990728411">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="499" y="147" key="chooseDestDirectoryDialog/0.0.1366.738@0.0.1366.738" timestamp="1603990728411" />
-    <state x="379" y="193" key="com.intellij.ide.util.TipDialog" timestamp="1603981908828">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="379" y="193" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1603981908828" />
-    <state x="339" y="165" key="run.anything.popup" timestamp="1602235448678">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="339" y="165" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1602235448678" />
-    <state x="513" y="160" key="svn.repositoryBrowser" timestamp="1602174928729">
-      <screen x="0" y="0" width="1366" height="738" />
-    </state>
-    <state x="513" y="160" key="svn.repositoryBrowser/0.0.1366.738@0.0.1366.738" timestamp="1602174928729" />
+    <state x="275" y="116" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1604074991422" />
   </component>
 </project>
